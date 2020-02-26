@@ -2,10 +2,6 @@
 ## Application - Variables ##
 #############################
 
-#############################
-## Application - Variables ##
-#############################
-
 # company name 
 variable "company" {
   type        = string
