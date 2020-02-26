@@ -1,6 +1,6 @@
-#############################################
-## Azure Linux VM with Web Module - Output ##
-#############################################
+#######################################
+## Linux VM with Web Server - Output ##
+#######################################
 
 output "web_linux_vm_id" {
   description = "Virtual Machine id"
